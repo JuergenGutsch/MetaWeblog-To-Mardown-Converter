@@ -2,6 +2,6 @@
 
 Creates Pretzel/Jekyll like Markdown files from a MetaWeblog API
 
-Usefull to export an existing blog to Pretzel or Jekyll
+Useful to export an existing blog to Pretzel or Jekyll
 
-This Project is inspired by the  MetaWeblog To BlogML converter https://metaweblogtoblogml.codeplex.com/ 
+This Project is inspired by the  MetaWeblog To BlogML converter: https://metaweblogtoblogml.codeplex.com/ 
